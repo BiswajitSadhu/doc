@@ -1,2 +1,8 @@
+Welcome to PyDOSEIA's documentation!
+===================================================
 
-doc
+.. image:: _static/logo.png
+   :height: 150px
+   :width: 150 px
+   :align: right
+pspsps
